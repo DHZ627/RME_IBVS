@@ -53,8 +53,10 @@ Before running this project, you need to install the following software and envi
    ```bash
    cd ~/obvs_ws
    catkin_make
+   
 4. 编译完成后，使用以下命令设置环境变量：
   - After compilation, set up the environment variables using the following command:
+    
    ```bash
    source devel/setup.bash
 
@@ -65,6 +67,7 @@ Before running this project, you need to install the following software and envi
 
    ```bash
    roslaunch px4 my_UAV_sitl.launch
+
 ![仿真环境截图 / Simulation Screenshot](./pic/1.jpg)
 
 2. 打开QGroundControl (QGC) 地面站：

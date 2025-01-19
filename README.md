@@ -90,8 +90,8 @@ Before running this project, you need to install the following software and envi
    ```bash
    rosrun ibvs_proj image_processor_node
    
-   <center>
-![下视相机图像（上图为原始图像、下图为虚拟相平面图像） / Downward-facing camera images (top: raw image, bottom: virtual image plane image).](./pic/3.jpg)
+<center>
+   ![下视相机图像（上图为原始图像、下图为虚拟相平面图像） / Downward-facing camera images (top: raw image, bottom: virtual image plane image).](./pic/3.jpg)
 </center>
 
 5. 打开视觉伺服节点：

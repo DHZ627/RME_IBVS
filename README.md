@@ -57,8 +57,10 @@ Before running this project, you need to install the following software and envi
 4. 编译完成后，使用以下命令设置环境变量：
   - After compilation, set up the environment variables using the following command:
     
-   ```bash
+    ```bash
    source devel/setup.bash
+
+
 ---
 ## 运行项目 / Running the Project
 

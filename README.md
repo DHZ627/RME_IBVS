@@ -59,7 +59,7 @@ Before running this project, you need to install the following software and envi
     
    ```bash
    source devel/setup.bash
-
+---
 ## 运行项目 / Running the Project
 
 1. 启动仿真环境：
@@ -106,7 +106,7 @@ Before running this project, you need to install the following software and envi
    - Run the target control node:
    ```bash
    rosrun block_controller block_controller
-
+---
 ## 结果展示 / Results
 使用 rqt 查看运行结果。
 Use rqt to view the running results.

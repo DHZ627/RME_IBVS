@@ -115,3 +115,12 @@ Use rqt to view the running results.
 
 ![方形轨迹 / Square trajectory](./pic/4.gif)
 ![圆形轨迹 / Circular trajectory](./pic/5.gif)
+
+---
+## 话题描述 / Topic Description
+
+- 话题 `/ground_target_Vel/twist/linear` 为目标真实运动速度。
+  - The topic `/ground_target_Vel/twist/linear` represents the true motion velocity of the target.
+
+- 话题 `/target_est_vel_velocity/twist/linear` 为估计器对目标运动速度的估计。
+  - The topic `/target_est_vel_velocity/twist/linear` represents the estimated motion velocity of the target by the estimator.
